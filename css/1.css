@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+    margin: 20px;
+}
+
+h1 {
+    text-align:  center;
+    margin:  50px auto;
+}
+
+body {
+    font-family: sans-serif;
+}

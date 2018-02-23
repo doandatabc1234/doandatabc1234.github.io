@@ -1,24 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>CV cá nhân ĐOÀN VĂN ĐẠT</title>
-	<link rel="stylesheet" href="1.css">
-</head>
-<body>
-	<h1>đoàn văn đạt - font end - wordpress - flat theme</h1>
-	<hr>
-	<div class="thongtin">
-		<h3> SKILL : html - css - js</h3>
+	<head>
+		<meta charset="UTF-8">
+		<title>Individual CV ĐOÀN VĂN ĐẠT</title>
+		<link rel="stylesheet" href="css/bootstrap.min.css" >
+		<script src="js/jquery-3.2.1.min.js" ></script>
+		<script src="js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="1.css">
+	</head>
+	<body>
+		<div class="container-fluid">
+			<div id="header">
+				<h1>about me</h1>
+				<ul id="navigation">
+					<li ><a id="link-introduce" href="#introduce" >introduce about me</a></li>
+					<li ><a id="link-portfolio" href="#portfolio">Portfolio</a></li>
+					<li ><a id="link-skill" href="#Skill">Skill</a></li>
+					<li ><a id="link-contact" href="#contact">Contact</a></li>
+				</ul>
+			</div>
+			<!-- Home -->
+			
+			<div id="introduce" class="content"><div class="conatiner ">
+				<div class="row">
+					<div class="col-md-12">
+						<h2>Introduce somethings about me</h2>
+						<p>So you want a single page website, uh? Well, if you follow this tutorial you will be able to create a very nifty one-pager. Check out the rest of the sections on this page so you can see for yourself what am I talking about.</p>
+						<p>This page consists of different panels that will slide or appear when clicking on the respective link.</p>
+						<p>With the general sibling selector we can change the color of the "selected" panel link.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- /Home -->
+		
+		<!-- Portfolio -->
+		
+		<div id="portfolio" class="panel">
+			<div class="conatiner">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="content">
+							<h2>Portfolio</h2>
+							<p>Some really nice portfolio shots:</p>
+							<ul id="works">
+								<li><a href="http://dribbble.com/shots/394177-Sheriff-Woody"><img src="images/portfolio_01.jpeg" width="250"></a></li>
+								<li><a href="http://dribbble.com/shots/392403-Spaceman"><img src="images/portfolio_02.jpeg" width="250"></a></li>
+								<li><a href="http://dribbble.com/shots/388799-Harvey-Birdman"><img src="images/portfolio_03.jpeg" width="250"></a></li>
+							</ul>
+							<p class="footnote">Dribbble shots by <a href="http://dribbble.com/stuntman">Matt Kaufenberg</a>.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- /Portfolio -->
+		
+		<!-- skill -->
+		
+		<div id="Skill" class="panel"><div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="content">
+						<h2>Skill</h2>
+						<p>html-css-js</p>
+						<p>bootstrap  to wordpress</p>
+						<p>design web</p>						
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
-	<div class="email">
-		<h3> Emaill : doandatabc123@gmail.com</h3>
+	
+	<!-- /skill -->
+	
+	<!-- Contact -->
+	
+	<div id="contact" class="panel"><div class="conatiner">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="content">
+					<h2>Contact</h2>
+					<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.</p>
+					<p>Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.</p>
+					<form id="form">
+						<p><label>Your Name</label><input type="text" /></p>
+						<p><label>Your Email</label><input type="text" /></p>
+						<p><label>Your Message</label><textarea></textarea></p>
+					</form>
+				</div>
+			</div>
+		</div>
 	</div>
-	<div class="sdt">
-		<h3> Số điện thoại : 01660645626</h3>
-	</div>
-	<div class="facebook">
-		<h3><a href="https://www.facebook.com/BaoDat0107">https://www.facebook.com/BaoDat0107</a></h3>
-	</div>
+</div>
+
+<!-- /Contact -->
+
+
+</div>
+<!-- Header with Navigation -->
 </body>
 </html>
