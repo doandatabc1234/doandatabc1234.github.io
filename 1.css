@@ -19,6 +19,7 @@ img {
     margin-top: 20px;
 }
 button#bt {
+	position: relative;
     width: 120px;
     height: 50px;
     opacity: 0.7;
@@ -29,6 +30,7 @@ button#bt {
     font-weight: 600;
     color: #fff;
     transition: 1s;
+    animation: tutraisang 2s forwards; 
 }
 button#bt:hover {
     color: #3fcea1;
@@ -42,7 +44,7 @@ h1#title {
     padding: 0 20px;
     font-size: 40px;
     text-shadow: 2px 2px #FF0000;
-     animation: tutraisang 2s forwards; 
+     animation: tuphaisang 2s forwards; 
      position: relative;
 }
 h3#author{
@@ -51,10 +53,18 @@ h3#author{
     position: relative;
     font-size: 35px;
     text-shadow: 2px 2px #FF0000;
-     animation: tutraisang 2s forwards; 
+     animation: tutrenxuong 2s forwards; 
 }
 @keyframes tutraisang {
     from {left: -600px;}
     to {left : 0px;}
+}
+@keyframes tuphaisang {
+    from {right: -600px;}
+    to {right : 0px;}
+}
+@keyframes tutrenxuong {
+    from {top: -600px;}
+    to {top : 0px;}
 }
  animation: example 4s forwards;
