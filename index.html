@@ -1,107 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>Individual CV ĐOÀN VĂN ĐẠT</title>
-		<link rel="stylesheet" href="css/bootstrap.min.css" >
-		<script src="js/jquery-3.2.1.min.js" ></script>
-		<script src="js/bootstrap.min.js"></script>
-		<link rel="stylesheet" href="1.css">
-	</head>
-	<body>
-		<div class="container-fluid">
-			<div id="header">
-				<h1>about me</h1>
-				<ul id="navigation">
-					<li ><a id="link-introduce" href="#introduce" >introduce about me</a></li>
-					<li ><a id="link-portfolio" href="#portfolio">Portfolio</a></li>
-					<li ><a id="link-skill" href="#Skill">Skill</a></li>
-					<li ><a id="link-contact" href="#contact">Contact</a></li>
-				</ul>
-			</div>
-			<!-- Home -->
+<head>
+	<meta charset="UTF-8">
+	<title>lời hay ý đẹpT</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css" >
+	<script src="js/jquery-3.2.1.min.js" ></script>
+	<script src="js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="1.css">
+	
+</head>
+<body>
+	<div class="container-fluid bg">		
+		<div class="col-md-12">	
+		<img src="images/1.jpg" alt="" id="bg">
+			<div class="box">
+				<h1 id="title"></h1>
+				<h3 id="author"></h3>
+				<button class="btn btn-default" onclick="getdata();" id="bt">refresh</button>
+			</div>				
 			
-			<div id="introduce" class="content"><div class="conatiner ">
-				<div class="row">
-					<div class="col-md-12">
-						<h2>Introduce somethings about me</h2>
-						<p>So you want a single page website, uh? Well, if you follow this tutorial you will be able to create a very nifty one-pager. Check out the rest of the sections on this page so you can see for yourself what am I talking about.</p>
-						<p>This page consists of different panels that will slide or appear when clicking on the respective link.</p>
-						<p>With the general sibling selector we can change the color of the "selected" panel link.</p>
-					</div>
-				</div>
-			</div>
 		</div>
 		
-		<!-- /Home -->
-		
-		<!-- Portfolio -->
-		
-		<div id="portfolio" class="panel">
-			<div class="conatiner">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="content">
-							<h2>Portfolio</h2>
-							<p>Some really nice portfolio shots:</p>
-							<ul id="works">
-								<li><a href="http://dribbble.com/shots/394177-Sheriff-Woody"><img src="images/portfolio_01.jpeg" width="250"></a></li>
-								<li><a href="http://dribbble.com/shots/392403-Spaceman"><img src="images/portfolio_02.jpeg" width="250"></a></li>
-								<li><a href="http://dribbble.com/shots/388799-Harvey-Birdman"><img src="images/portfolio_03.jpeg" width="250"></a></li>
-							</ul>
-							<p class="footnote">Dribbble shots by <a href="http://dribbble.com/stuntman">Matt Kaufenberg</a>.</p>
-							<hr>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<!-- /Portfolio -->
-		
-		<!-- skill -->
-		
-		<div id="Skill" class="panel"><div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="content">
-						<h2>Skill</h2>
-						<p>html-css-js</p>
-						<p>bootstrap  to wordpress</p>
-						<p>design web</p>						
-					</div>
-				</div>
-			</div>
-		</div>
 	</div>
 	
-	<!-- /skill -->
 	
-	<!-- Contact -->
-	
-	<div id="contact" class="panel"><div class="conatiner">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="content">
-					<h2>Contact</h2>
-					<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.</p>
-					<p>Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.</p>
-					<form id="form">
-						<p><label>Your Name</label><input type="text" /></p>
-						<p><label>Your Email</label><input type="text" /></p>
-						<p><label>Your Message</label><textarea></textarea></p>
-					</form>
-					<hr>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
 
-<!-- /Contact -->
+	<script>
+		var data = [
+{
+	 ten : " Lúc nào tôi cũng bay theo hướng bay của người khác. Lần này tôi sẽ bay theo con đường mà tôi đã lựa chọn.",
+	 tacGia : "ẩn danh",
+	 img : "images/1.jpg"
+},
+{
+	ten : " Cuộc sống không phải là phim ảnh, không có nhiều đến thế… những lần không hẹn mà gặp",
+	tacGia : "ẩn danh",
+	img : "images/2.jpg"
+},
+{
+	ten :  "Đôi khi, không cẩn thận biết một số chuyện, mới phát hiện ra rằng những điều bản thân để tâm lại nực cười đến thế",
+	tacGia : "ẩn danh",
+	img : "images/3.jpg"
+},
+{
+	ten :  " Ai không giả dối, ai không dễ thay đổi, không ai là ai của ai hết. Hà tất phải coi một số người, một số chuyện quan trọng đến thế.",
+	tacGia : "ẩn danh",
+	img : "images/4.jpg"
+},
+{
+	ten :  "Tình yêu, tình bạn, không phải là cả đời không cãi nhau, mà là cãi nhau rồi vẫn có thể bên nhau cả đời.",
+	tacGia : "ẩn danh",
+	img : "images/5.jpg"
+},
+{
+	ten :  "Sự chân thành là điều tốt đẹp nhất bạn có thể đem trao tặng một người. Sự thật, lòng tin cậy, tình bạn và tình yêu đều tùy thuộc vào điều đó cả.",
+	tacGia : "ẩn danh",
+	img : "images/6.jpg"
+},
+{
+	ten :  " Đừng nói mà hãy làm. Đừng huyên thuyên mà hãy hành động. Đừng hứa mà hãy chứng minh.",
+	tacGia : "ẩn danh",
+	img : "images/7.jpg"
+},
+	{
+	ten :  "Đối với bạn mà nói, sẽ chẳng bao giờ là quá già để có một mục tiêu mới hay để mơ một giấc mơ mới. ",
+	tacGia : "ẩn danh",
+	img : "images/8.jpg"
+}
+		];
+		function makerandomnumber(range){
+			return Math.floor(Math.random()*range); // 0  -> range
+		}
+		function getTitle(){
+			return data[makerandomnumber(data.length)];
+		}
+		function getdata(){
+			var get = getTitle();
+			 var elmten = document.getElementById("title");
+			 var elmTacGia = document.getElementById("author");			 
+			 var elmimg = document.getElementById("bg");			 
+			 elmten.innerText= get.ten;
+			 elmTacGia.innerText = get.tacGia;
+			 elmimg.src = get.img;  			  	
+
+		}
 
 
-</div>
-<!-- Header with Navigation -->
+		window.onload = getdata();
+
+	</script>
 </body>
 </html>

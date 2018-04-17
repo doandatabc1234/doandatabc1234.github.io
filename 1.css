@@ -1,133 +1,60 @@
 *{padding: 0;
 margin:0;}
-html, body {
-	height:100%;
+
+div.container-fluid{
+	padding: 0px;
 }
-body {
-	width: 100%;
-	background: #b1e583;
-	overflow-x: hidden;
-	overflow-y: auto;
+div.col-md-12{
+	padding: 0px;
 }
-#header{
-	position: absolute;
-	z-index: 2000;
-	width: 235px;
-	top: 50px;
+img {
+    width: 100%;
+    animation: tutraisang 2s forwards;    
+    position: relative;
 }
-#header h1{
-	font-size: 30px;
-	font-weight: 400;
-	text-transform: uppercase;
-	color: rgba(255,255,255,0.9);
-	text-shadow: 0px 1px 1px rgba(0,0,0,0.3);
-	padding: 20px;
-	background: #000;
+.box {
+    text-align: center;
+    position: absolute;
+    top:  0px;
+    margin-top: 20px;
 }
-#navigation {
-	margin-top: 20px;
-	width: 235px;
-	display:block;
-	list-style:none;
-	z-index:3;
+button#bt {
+    width: 120px;
+    height: 50px;
+    opacity: 0.7;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background: #3fcea1;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #fff;
+    transition: 1s;
 }
-#navigation a{
-	color: #444;
-	display: block;
-	background: #fff;
-	background: rgba(255,255,255,0.9);
-	line-height: 50px;
-	padding: 0px 20px;
-	text-transform: uppercase;
-	margin-bottom: 6px;
-	box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
-	font-size: 14px;
+button#bt:hover {
+    color: #3fcea1;
+    background: #fff;
+    transition: 1s;
 }
-#navigation a:hover {
-	background: #ddd;
+h1#title {
+    margin-bottom: 300px;
+    color: #fff;
+    font-family: lato;
+    padding: 0 20px;
+    font-size: 40px;
+    text-shadow: 2px 2px #FF0000;
+     animation: tutraisang 2s forwards; 
+     position: relative;
 }
-.content{
-	right: 40px;
-	left: 280px;
-	top: 0px;
-	position: absolute;
-	padding-bottom: 30px;
+h3#author{
+	 color: #fff;
+    font-family: lato;
+    position: relative;
+    font-size: 35px;
+    text-shadow: 2px 2px #FF0000;
+     animation: tutraisang 2s forwards; 
 }
-.content h2{
-	font-size: 110px;
-	padding: 10px 0px 20px 0px;
-	margin-top: 52px;
-	color: #fff;
-	color: rgba(255,255,255,0.9);
-	text-shadow: 0px 1px 1px rgba(0,0,0,0.3);
+@keyframes tutraisang {
+    from {left: -600px;}
+    to {left : 0px;}
 }
-.content p{
-	font-size: 18px;
-	padding: 10px;
-	line-height: 24px;
-	color: #fff;
-	display: inline-block;
-	background: black;
-	padding: 10px;
-	margin: 3px 0px;
-}
-.panel{
-	width: 98%;
-	min-height: 100%;
-	position: absolute;
-	background-color: #000;
-	box-shadow: 4px -4px 4px rgba(0,0,0,0.2);
-	margin-left: -102%;
-	z-index:2;
-	-webkit-transition: all .6s ease-in-out;
-	-moz-transition: all .6s ease-in-out;
-	-o-transition: all .6s ease-in-out;
-	-ms-transition: all .6s ease-in-out;
-	transition: all .6s ease-in-out;
-	border-top-right-radius: 50%;
-}
-.panel:target{
-	margin-left: 0%;
-	background-color: #b1e583;
-}
-#introduce:target ~ #header #navigation #link-introduce,
-#portfolio:target ~ #header #navigation #link-portfolio,
-#skill:target ~ #header #navigation #link-skill,
-#contact:target ~ #header #navigation #link-contact{
-	background: #000;
-	color: #fff;
-}
-#works {
-	padding: 15px 0px;
-}
-#works li{
-	display: inline;
-}
-#works li a{
-	padding-right: 10px;
-}
-#works img {
-	box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
-	padding: 12px; 
-	background: rgba(255,255,255,0.9);
-}
-#form p{
-	background: #fff;
-	color: #000;
-}
-#form input, #form textarea{
-	background: #000;
-	color: #fff;
-	border: none;
-}
-#form textarea{
-	width: 493px;
-	height: 100px;
-}
-#form label{
-	padding-right: 10px;
-	float: left;
-}
-.footnote a{
-	color: #ddd;
-}
+ animation: example 4s forwards;
