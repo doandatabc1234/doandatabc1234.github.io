@@ -1,0 +1,1689 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Handy Feature Pack\n"
+"POT-Creation-Date: 2017-04-20 12:09+0300\n"
+"PO-Revision-Date: 2017-04-20 12:07+0300\n"
+"Last-Translator: eugene <example@gmail.com>\n"
+"Language-Team: eugene <example@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: handy-feature-pack.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-handy-feature-pack-login-register.php:10
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:28
+#: includes/widgets/class-pt-widget-login.php:72
+#: includes/widgets/class-pt-widget-login.php:84
+#: includes/widgets/class-pt-widget-login.php:94
+#: includes/widgets/class-pt-widget-login.php:143
+#: includes/widgets/class-pt-widget-login.php:149
+msgid "Login"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:36
+msgid "This username is already registered."
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:39
+msgid "This email address is already registered."
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:44
+msgid "You must accept the terms and conditions to become a vendor."
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:85
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:86
+#: includes/class-handy-feature-pack-login-register.php:94
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:87
+#, php-format
+msgid "Email: %s"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:89
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:91
+msgid "Hi there,"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:92
+#, php-format
+msgid "Welcome to %s! Here's how to log in:"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:95
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:96
+#, php-format
+msgid "If you have any problems, please contact me at %s."
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:97
+msgid "This is an automatically generated email, please do not reply!"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:100
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:104
+msgid "Registration"
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:125
+msgid "Wrong username or password."
+msgstr ""
+
+#: includes/class-handy-feature-pack-login-register.php:138
+msgid " successful, redirecting..."
+msgstr ""
+
+#: includes/class-handy-feature-pack-vc-modification.php:11
+#: includes/class-handy-feature-pack-vc-modification.php:17
+msgid "Handy Style"
+msgstr ""
+
+#: includes/shortcodes/banner.php:8
+msgid "Banner"
+msgstr ""
+
+#: includes/shortcodes/banner.php:10
+msgid "Creates unique banner with cool hover effect"
+msgstr ""
+
+#: includes/shortcodes/banner.php:11 includes/shortcodes/carousel.php:11
+#: includes/shortcodes/contact-member.php:11
+#: includes/shortcodes/promo-text.php:11 includes/shortcodes/recent-post.php:11
+#: includes/shortcodes/sale-carousel.php:11
+#: includes/shortcodes/testimonials.php:13
+#: includes/shortcodes/vendors-carousel.php:11
+#: includes/shortcodes/woo-codes.php:12
+msgid "Handy Shortcodes"
+msgstr ""
+
+#: includes/shortcodes/banner.php:16
+msgid "Banner Image"
+msgstr ""
+
+#: includes/shortcodes/banner.php:18
+msgid "Select image from media library."
+msgstr ""
+
+#: includes/shortcodes/banner.php:22 includes/shortcodes/carousel.php:55
+#: includes/shortcodes/contact-member.php:24
+#: includes/shortcodes/testimonials.php:89
+msgid "Image size"
+msgstr ""
+
+#: includes/shortcodes/banner.php:31 includes/shortcodes/carousel.php:64
+#: includes/shortcodes/contact-member.php:33
+#: includes/shortcodes/testimonials.php:98
+msgid ""
+"Enter image size. You can change these images' dimensions in wordpress media "
+"settings."
+msgstr ""
+
+#: includes/shortcodes/banner.php:36
+msgid "Banner main caption"
+msgstr ""
+
+#: includes/shortcodes/banner.php:42
+msgid "Specify left offset for banner main caption (in %)"
+msgstr ""
+
+#: includes/shortcodes/banner.php:50
+msgid "Specify top offset for banner main caption (in %)"
+msgstr ""
+
+#: includes/shortcodes/banner.php:59
+msgid "Banner secondary caption"
+msgstr ""
+
+#: includes/shortcodes/banner.php:65
+msgid "Specify left offset for banner secondary caption (in %)"
+msgstr ""
+
+#: includes/shortcodes/banner.php:73
+msgid "Specify top offset for banner secondary caption (in %)"
+msgstr ""
+
+#: includes/shortcodes/banner.php:81
+msgid "Choose hover effect for Banner"
+msgstr ""
+
+#: includes/shortcodes/banner.php:108
+msgid "Add link to banner"
+msgstr ""
+
+#: includes/shortcodes/banner.php:115 includes/shortcodes/carousel.php:186
+#: includes/shortcodes/contact-member.php:115
+#: includes/shortcodes/promo-text.php:265
+#: includes/shortcodes/recent-post.php:79
+#: includes/shortcodes/sale-carousel.php:85
+#: includes/shortcodes/testimonials.php:143
+#: includes/shortcodes/vendors-carousel.php:67
+#: includes/shortcodes/woo-codes.php:114
+msgid "Extra class name"
+msgstr ""
+
+#: includes/shortcodes/banner.php:117 includes/shortcodes/carousel.php:188
+#: includes/shortcodes/contact-member.php:117
+#: includes/shortcodes/promo-text.php:267
+#: includes/shortcodes/recent-post.php:81
+#: includes/shortcodes/sale-carousel.php:87
+#: includes/shortcodes/testimonials.php:145
+#: includes/shortcodes/vendors-carousel.php:69
+#: includes/shortcodes/woo-codes.php:116
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: includes/shortcodes/banner.php:121 includes/shortcodes/carousel.php:192
+#: includes/shortcodes/contact-member.php:121
+#: includes/shortcodes/promo-text.php:271
+#: includes/shortcodes/recent-post.php:85
+#: includes/shortcodes/sale-carousel.php:91
+#: includes/shortcodes/testimonials.php:149
+#: includes/shortcodes/vendors-carousel.php:73
+#: includes/shortcodes/woo-codes.php:120
+msgid "CSS box"
+msgstr ""
+
+#: includes/shortcodes/banner.php:123 includes/shortcodes/carousel.php:194
+#: includes/shortcodes/contact-member.php:123
+#: includes/shortcodes/promo-text.php:273
+#: includes/shortcodes/recent-post.php:87
+#: includes/shortcodes/sale-carousel.php:93
+#: includes/shortcodes/testimonials.php:151
+#: includes/shortcodes/vendors-carousel.php:75
+#: includes/shortcodes/woo-codes.php:122
+msgid "Design Options"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:9
+msgid "Configurable Carousel"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:12
+msgid "Carousel with awesome options"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:18 includes/shortcodes/promo-text.php:18
+#: includes/shortcodes/sale-carousel.php:18
+#: includes/shortcodes/testimonials.php:19
+msgid "Title text"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:20 includes/shortcodes/promo-text.php:20
+#: includes/shortcodes/sale-carousel.php:20
+#: includes/shortcodes/testimonials.php:21
+msgid "Title goes here"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:24
+msgid "Use as banners rotator?"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:30
+msgid "Carousel Images"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:34
+#: includes/shortcodes/contact-member.php:60
+msgid "Facebook"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:38
+#: includes/shortcodes/contact-member.php:64
+msgid "Twitter"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:42
+#: includes/shortcodes/contact-member.php:68
+msgid "Google Plus"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:49
+msgid "Image"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:51
+msgid "Add image from Media library"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:68
+#: includes/shortcodes/contact-member.php:75
+#: includes/shortcodes/woo-codes.php:83
+#: includes/widgets/class-pt-widget-recent-posts.php:54
+msgid "Title"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:70
+msgid "Enter heading text for item"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:75
+msgid "Short Description"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:77
+msgid "Enter description text for item"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:81
+msgid "URL for detailed view"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:83
+msgid "Url of a link for detailed view button"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:87
+msgid "Button Text (shown with banner rotator)"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:89
+msgid "Enter text for button"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:99
+msgid "Items per Slide"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:102
+msgid "1 item in row"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:103
+msgid "2 items in row"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:104
+msgid "3 items in row"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:105
+msgid "6 items in 2 rows"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:106
+msgid "n items in row"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:117
+msgid "How many slides to show in one moment"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:120
+msgid "2 Slides"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:121
+msgid "3 Slides"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:122
+msgid "4 Slides"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:123
+msgid "5 Slides"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:124
+msgid "6 Slides"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:135
+msgid "Animation on hover"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:138
+msgid "Full height shift"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:139
+msgid "Full height fading"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:140
+msgid "Sliding from bottom"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:141
+msgid "No animation"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:152
+#: includes/shortcodes/sale-carousel.php:24
+#: includes/shortcodes/testimonials.php:36
+msgid "Transition Type"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:168
+#: includes/shortcodes/sale-carousel.php:36
+#: includes/shortcodes/testimonials.php:48
+msgid "Autoplay"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:170
+#: includes/shortcodes/sale-carousel.php:38
+#: includes/shortcodes/testimonials.php:50
+msgid "Whether to running your carousel automatically or not"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:174
+#: includes/shortcodes/sale-carousel.php:42
+#: includes/shortcodes/testimonials.php:54
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:176
+#: includes/shortcodes/sale-carousel.php:44
+#: includes/shortcodes/testimonials.php:56
+msgid "Show/hide arrow buttons"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:180
+#: includes/shortcodes/sale-carousel.php:48
+#: includes/shortcodes/testimonials.php:60
+msgid "Show Page Navigation"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:182
+#: includes/shortcodes/sale-carousel.php:50
+#: includes/shortcodes/testimonials.php:62
+msgid "Show/hide navigation buttons under your carousel"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:251
+msgid "Quick View"
+msgstr ""
+
+#: includes/shortcodes/carousel.php:252 includes/shortcodes/carousel.php:253
+#: includes/shortcodes/carousel.php:259
+msgid "Learn More"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:9
+msgid "Member Contacts"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:12
+msgid "Output Member Foto and social links"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:18
+msgid "Member Image"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:20
+msgid "Add Member Image"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:37
+#: includes/shortcodes/contact-member.php:39
+msgid "Team Member Name"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:43
+#: includes/shortcodes/contact-member.php:45
+msgid "Team Member Occupation"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:49
+msgid "Team Member Short Biography"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:51
+msgid "Short biography here"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:56
+msgid "Buttons"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:77
+msgid "Enter Title"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:82
+msgid "URL"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:84
+msgid "Enter URL for button"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:89
+#: includes/shortcodes/promo-text.php:100
+#: includes/shortcodes/promo-text.php:117
+#: includes/shortcodes/promo-text.php:133
+#: includes/shortcodes/promo-text.php:149
+#: includes/shortcodes/promo-text.php:164
+#: includes/shortcodes/promo-text.php:180
+msgid "Icon"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:97
+#: includes/shortcodes/promo-text.php:113
+#: includes/shortcodes/promo-text.php:129
+#: includes/shortcodes/promo-text.php:145
+#: includes/shortcodes/promo-text.php:176
+#: includes/shortcodes/promo-text.php:192
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:103
+msgid "Predefined Styles"
+msgstr ""
+
+#: includes/shortcodes/contact-member.php:164
+msgid "Click here"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:9
+msgid "Promo Text"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:12
+msgid "Output Promo text with icon"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:31
+msgid "Select text alignment."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:32
+msgid "Enter font size."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:33
+msgid "Select heading color."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:39
+msgid "Use custom font family?"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:41 includes/shortcodes/promo-text.php:76
+#: includes/shortcodes/woo-codes.php:108
+msgid "Yes"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:42
+msgid "Add custom font-family from Google Fonts library."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:50
+msgid "Select font family."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:51
+msgid "Select font styling."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:61
+msgid "URL (Link)"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:63
+msgid "Add link to promo text heading."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:67
+msgid "Promo content Text"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:69
+msgid "This is custom promo text description"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:74
+msgid "Add icon?"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:81
+msgid "Icon library"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:83
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:84
+msgid "Open Iconic"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:85
+msgid "Typicons"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:86
+msgid "Entypo"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:87
+msgid "Linecons"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:88
+msgid "Mono Social"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:92
+msgid "Select icon library."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:196
+msgid "Custom color"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:198
+msgid "Select custom icon color."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:206
+msgid "Icon Size"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:209
+msgid "Small"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:210
+msgid "Normal"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:211
+msgid "Large"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:221
+msgid "Icon Position"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:224
+msgid "Left"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:225
+msgid "Center"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:226
+msgid "Right"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:236
+msgid "Background shape"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:239
+msgid "None"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:240
+msgid "Circle"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:241
+msgid "Square"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:242
+msgid "Rounded"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:243
+msgid "Outline Circle"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:244
+msgid "Outline Square"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:245
+msgid "Outline Rounded"
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:247
+msgid "Select background shape and style for icon."
+msgstr ""
+
+#: includes/shortcodes/promo-text.php:255
+msgid "Custom background color for icon"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:9
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:12
+msgid "Output Carousel with Recent Posts"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:18
+#: includes/shortcodes/vendors-carousel.php:18
+#: includes/shortcodes/woo-codes.php:18
+msgid "Element Title"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:23
+msgid "Posts per row"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:33
+msgid "Total number of Posts to show"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:39
+#: includes/shortcodes/vendors-carousel.php:35
+msgid "Orderby Parameter"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:42 includes/shortcodes/woo-codes.php:82
+#: includes/widgets/class-pt-widget-recent-posts.php:53
+msgid "Date"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:43
+#: includes/shortcodes/vendors-carousel.php:41
+#: includes/shortcodes/woo-codes.php:86
+#: includes/widgets/class-pt-widget-recent-posts.php:57
+msgid "Random"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:44
+#: includes/widgets/class-pt-widget-recent-posts.php:56
+msgid "Author"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:45
+msgid "Comments Quantity"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:51
+#: includes/shortcodes/vendors-carousel.php:47
+#: includes/shortcodes/woo-codes.php:68
+msgid "Order Parameter"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:54
+#: includes/shortcodes/vendors-carousel.php:50
+#: includes/shortcodes/woo-codes.php:71
+#: includes/widgets/class-pt-widget-categories.php:79
+msgid "Ascending"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:55
+#: includes/shortcodes/vendors-carousel.php:51
+#: includes/shortcodes/woo-codes.php:72
+#: includes/widgets/class-pt-widget-categories.php:80
+msgid "Descending"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:61
+msgid "Posts by Category slug"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:66
+msgid "Use Owl Carousel?"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:73
+#: includes/shortcodes/vendors-carousel.php:61
+msgid "Turn On autoplay"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:151
+#: includes/shortcodes/recent-post.php:166
+msgid "Click to learn more"
+msgstr ""
+
+#: includes/shortcodes/recent-post.php:158
+msgid "By "
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:9
+msgid "Sale Carousel"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:12
+msgid "Output carousel with sale products"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:54
+msgid "Carousel Items"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:65
+msgid "Enter Sale Product ID"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:71
+msgid "Target Date"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:73
+msgid "Set target date (YYYY-MM-DD) when special offer ends"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:77
+msgid "Pre-Countdown text"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:79
+msgid "This text appears before countdown timer"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:129
+msgid "Sale!"
+msgstr ""
+
+#: includes/shortcodes/sale-carousel.php:170
+msgid "Add sale products first"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:10
+msgid "Testimonials"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:12
+msgid "Output carousel with Testimonials"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:25
+msgid "Testimonials Style"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:66
+msgid "Testimonials Items"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:70
+#: includes/shortcodes/testimonials.php:75
+#: includes/shortcodes/testimonials.php:102
+#: includes/shortcodes/woo-codes.php:84
+#: includes/widgets/class-pt-widget-categories.php:72
+msgid "Name"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:71
+#: includes/shortcodes/testimonials.php:76
+#: includes/shortcodes/testimonials.php:109
+msgid "Occupation"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:72
+#: includes/shortcodes/testimonials.php:77
+msgid "Text"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:83
+msgid " Image"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:85
+msgid "Add Image"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:104
+msgid "Enter Name"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:111
+msgid "Enter Occupation"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:116
+msgid "Content Text"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:118
+msgid "Set content of element"
+msgstr ""
+
+#: includes/shortcodes/testimonials.php:123
+msgid "Add star rating to testimonial"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:9
+msgid "Vendors Carousel"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:12
+msgid "Output Carousel with Vendor stores"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:23
+msgid "How many stores displayed per row"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:29
+msgid "Total number of stores to show"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:38
+msgid "Registered date"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:39
+msgid "Vendor name"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:40
+msgid "Products quantity"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:165
+msgid "Visit Shop"
+msgstr ""
+
+#: includes/shortcodes/vendors-carousel.php:202
+msgid "No users found."
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:9
+msgid "Woocommerce Shortcode"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:10
+msgid "Add shortcodes with Carousel"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:20
+msgid "Enter Element Title"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:24
+msgid "Choose Woocommerce Shortcode"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:27
+#: includes/widgets/class-pt-widget-vendors-products.php:40
+msgid "Recent Products"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:28
+#: includes/widgets/class-pt-widget-vendors-products.php:39
+msgid "Featured Products"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:29
+msgid "Products by category"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:30
+msgid "Sale Products"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:31
+#: includes/widgets/class-pt-widget-vendors-products.php:42
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:32
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:33
+#: includes/widgets/class-pt-widget-categories.php:63
+msgid "Product Categories"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:39
+msgid "Categorie ID"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:41
+msgid "Please enter ID of categorie which products you want to output"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:49
+msgid "Categories IDs"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:51
+msgid ""
+"Please enter IDs of categories which you want to output (comma separated "
+"list)"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:59
+msgid "Number of Products/Categories to show"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:61
+msgid "Set the number of items to show"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:79
+msgid "Sort Parameter by"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:85
+#: includes/widgets/class-pt-widget-categories.php:70
+msgid "ID"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:92
+msgid "Columns quantity"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:95
+msgid "2 Cols"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:96
+msgid "3 Cols"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:97
+msgid "4 Cols"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:98
+msgid "5 Cols"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:99
+msgid "6 Cols"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:102
+msgid "Set Columns quantity"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:106
+msgid "Use Owl Carousel"
+msgstr ""
+
+#: includes/shortcodes/woo-codes.php:110
+msgid "Check to add Owl Carousel to products"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:18
+msgid "Handy WooCommerce Cart"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:19
+msgid "Handy special widget. Display the user's Cart in the sidebar."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:60
+msgid "Cart"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:82
+#, php-format
+msgid "You have 1 item in your shopping cart"
+msgid_plural "You have %d items in your shopping cart"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/class-pt-widget-cart.php:83
+msgid "View your shopping cart"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:84
+msgid "Details"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:86
+msgid "Subtotal: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:87
+msgid "Checkout"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:157
+#: includes/widgets/class-pt-widget-comments-with-avatars.php:87
+#: includes/widgets/class-pt-widget-contacts.php:51
+#: includes/widgets/class-pt-widget-output-shortcode.php:23
+#: includes/widgets/class-pt-widget-pay-icons.php:105
+#: includes/widgets/class-pt-widget-popular-posts.php:28
+#: includes/widgets/class-pt-widget-socials.php:133
+#: includes/widgets/class-pt-widget-user-likes.php:24
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-cart.php:161
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:10
+msgid "Handy Categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:11
+msgid ""
+"Handy special widget. Display configurable list of categories on your site."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:31
+#: includes/widgets/class-pt-widget-login.php:23
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:32
+#: includes/widgets/class-pt-widget-recent-posts.php:36
+#: includes/widgets/class-pt-widget-search.php:27
+#: includes/widgets/class-pt-widget-vendors-products.php:25
+msgid "Title: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:38
+msgid "Show count for categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:44
+msgid "Show images for categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:50
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:56
+msgid "Collapsing categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:57
+msgid "works only when \"Show hierarchy\" checked."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:60
+msgid "Categories type:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:62
+msgid "Post Categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:68
+#: includes/widgets/class-pt-widget-recent-posts.php:51
+msgid "Sort by:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:71
+msgid "Category order"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:77
+msgid "Order:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:85
+msgid "Exclude Category (ID): "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:87
+msgid "category IDs, separated by commas."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-categories.php:150
+msgid "No categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-comments-with-avatars.php:10
+msgid ""
+"Handy special widget. Your site&#8217;s most recent comments with user "
+"avatars."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-comments-with-avatars.php:13
+msgid "Handy Recent Comments"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-comments-with-avatars.php:36
+msgid "Recent Comments"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-comments-with-avatars.php:56
+msgid "by "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-comments-with-avatars.php:56
+msgid " in "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-comments-with-avatars.php:90
+msgid "Number of comments to show:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:10
+msgid "Handy Contacts"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:11
+msgid "Handy special widget. Configurable Address Widget"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:55
+msgid "Company Name:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:59
+msgid "Company Logo:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:62
+msgid "Upload Image"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:65
+#: includes/widgets/class-pt-widget-pay-icons.php:126
+#: includes/widgets/class-pt-widget-popular-posts.php:45
+#: includes/widgets/class-pt-widget-user-likes.php:28
+msgid "Pre-Content"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:69
+#: includes/widgets/class-pt-widget-pay-icons.php:131
+#: includes/widgets/class-pt-widget-popular-posts.php:49
+#: includes/widgets/class-pt-widget-user-likes.php:32
+msgid "Post-Content"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:73
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:77
+msgid "Fax:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:81
+msgid "Skype:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:85
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-contacts.php:89
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:10
+msgid "Handy Login/Register"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:11
+msgid "Handy special widget. An AJAX Login/Register form for your site."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:28
+msgid "Show in line?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:55
+#: includes/widgets/class-pt-widget-login.php:66
+msgid "My Account"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:57
+#: includes/widgets/class-pt-widget-login.php:64
+msgid "Log out of this account"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:57
+#: includes/widgets/class-pt-widget-login.php:64
+msgid "Log out"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:61
+#, php-format
+msgid "Hello <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:71
+msgid "New to site? "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:71
+msgid "Create an Account"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:76
+#: includes/widgets/class-pt-widget-login.php:99
+msgid "Username"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:80
+#: includes/widgets/class-pt-widget-login.php:107
+msgid "Password"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:83
+msgid "Lost password?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:85
+#: includes/widgets/class-pt-widget-login.php:139
+msgid "(close)"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:94
+msgid "Already have an account? "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:95
+msgid "Signup"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:100
+msgid "Digits and Letters only."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:103
+msgid "Email"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:116
+msgid "Apply to become a vendor? "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:122
+#, php-format
+msgid ""
+"I have read and accepted the <a target=\"_blank\" href=\"%s\">terms and "
+"conditions</a>"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:138
+#: includes/widgets/class-pt-widget-login.php:144
+#: includes/widgets/class-pt-widget-login.php:150
+msgid "Register"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-login.php:147
+msgid "Welcome to our store!"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:10
+msgid "Handy Most Viewed Posts"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:11
+msgid ""
+"Handy special widget. Displaying number of most viewed posts on your site."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:36
+#: includes/widgets/class-pt-widget-popular-posts.php:41
+#: includes/widgets/class-pt-widget-recent-posts.php:40
+msgid "How many posts to display: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:41
+#: includes/widgets/class-pt-widget-recent-posts.php:62
+msgid "Reverse sort order (ascending)?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:45
+#: includes/widgets/class-pt-widget-recent-posts.php:66
+msgid "Show publish date?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:49
+msgid "Show number of comments?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:52
+#: includes/widgets/class-pt-widget-recent-posts.php:77
+msgid "Specify ID of category (categories) to show: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:57
+msgid "Show post thumbnail?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:61
+msgid "Show post excerpt?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:64
+msgid "Excerpt length (in words):"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:68
+#: includes/widgets/class-pt-widget-recent-posts.php:89
+msgid "Excerpt read more text:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-most-viewed-posts.php:170
+msgid "Views: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-output-shortcode.php:9
+msgid "Handy special widget. Outputs shortcodes in widget areas."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-output-shortcode.php:12
+msgid "Handy Output Shortcode"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-output-shortcode.php:26
+msgid "Shortcode:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-pay-icons.php:10
+msgid "Handy Payment Icons"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-pay-icons.php:11
+msgid "Handy special widget. Add payment methods icons"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-pay-icons.php:110
+#: includes/widgets/class-pt-widget-socials.php:144
+msgid "Icon Size:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-pay-icons.php:122
+#: includes/widgets/class-pt-widget-socials.php:163
+msgid "Inline Mode"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-pay-icons.php:144
+msgid "Show on frontend"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-pay-icons.php:148
+#: includes/widgets/class-pt-widget-socials.php:172
+msgid "Label:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:10
+msgid "Handy Popular Posts"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:11
+msgid ""
+"Handy special widget. Outputs a list of the posts with the most user likes"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:32
+msgid "Time Range:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:34
+msgid "Today"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:35
+msgid "Week"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:36
+msgid "Month"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:37
+msgid "All Time"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:95
+msgid "Today's Most Popular Posts"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:99
+#: includes/widgets/class-pt-widget-popular-posts.php:103
+#: includes/widgets/class-pt-widget-popular-posts.php:107
+#: includes/widgets/class-pt-widget-popular-posts.php:111
+msgid "This Month's Most Popular Posts"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-popular-posts.php:141
+#: includes/widgets/class-pt-widget-user-likes.php:93
+msgid "Nothing yet"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:10
+msgid "Handy Recent Posts/Products"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:11
+msgid ""
+"Handy special widget. Displaying number of recent posts (or products) on "
+"your site."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:44
+msgid "Show Posts for next Post Type:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:46
+msgid "Posts"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:47
+msgid "Products"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:55
+msgid "Number of comments"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:70
+msgid "Show list of post/products Categories?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:74
+msgid "Show number of comments/reviews?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:82
+msgid "Show post/product featured image?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:86
+msgid "Show post/product excerpt?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:94
+msgid "Show price? (products only)"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:98
+msgid "Check if you want to add widget to Max Mega Menu"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:101
+msgid "Columns quantity for posts/products in Max Mega Menu:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:103
+msgid "2 Columns"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:104
+msgid "3 Columns"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:105
+msgid "4 Columns"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:106
+msgid "6 Columns"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:225
+#: includes/widgets/class-pt-widget-recent-posts.php:232
+#: includes/widgets/class-pt-widget-recent-posts.php:281
+msgid "View details..."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:242
+msgid ", "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:252
+#, php-format
+msgid "View all post filed under %s"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-recent-posts.php:269
+#, php-format
+msgctxt "comments title"
+msgid "One Review"
+msgid_plural "%1$s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/class-pt-widget-search.php:10
+msgid "Handy Search"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:11
+msgid "Handy special widget. A search form for your site."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:31
+msgid "Input Text: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:35
+msgid "Button Title Text: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:40
+msgid "Add \"search in category\" dropdown?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:42
+msgid "Select which categories to display"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:45
+msgid "Post categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:46
+msgid "Product categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:57
+msgid ""
+"Exclude next categories(a comma-separated list of categories by unique ID, "
+"in ascending order): "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-search.php:108
+msgid "All Categories"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-socials.php:10
+msgid "Handy Social Icons"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-socials.php:13
+msgid ""
+"Handy special widget. Displays a list of social media website icons and a "
+"link to your profile."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-socials.php:160
+msgid "Hide Title"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-socials.php:175
+msgid "URL:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-socials.php:229
+msgid "Connect us on "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-user-likes.php:10
+msgid "Handy User Likes"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-user-likes.php:11
+msgid ""
+"Handy special widget. If the user is logged in, output a list of posts that "
+"the user likes"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-user-likes.php:81
+msgid "You Like:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-vendors-products.php:10
+msgid "Handy Vendor Products"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-vendors-products.php:11
+msgid ""
+"Handy special widget. Outputs list of products based on current vendor page."
+msgstr ""
+
+#: includes/widgets/class-pt-widget-vendors-products.php:30
+msgid "Add Vendor Shop name to the title?"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-vendors-products.php:33
+msgid "How many products to display: "
+msgstr ""
+
+#: includes/widgets/class-pt-widget-vendors-products.php:37
+msgid "Show:"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-vendors-products.php:41
+msgid "On-Sale Products"
+msgstr ""
+
+#: includes/widgets/class-pt-widget-vendors-products.php:124
+msgid " by "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Handy Feature Pack"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://themes.zone/feature-pack"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Special collection of widgets & shortcodes for Handy Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themes Zone"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themes.zone/"
+msgstr ""

@@ -1,0 +1,202 @@
+
+---Downloaded files---
+The import files for: HandyStore Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/hatoccho
+Data file = C:\xampp\htdocs\hatoccho/wp-content/themes/handystore/required-plugins/dummy-data/handystore.xml
+Widget file = C:\xampp\htdocs\hatoccho/wp-content/themes/handystore/required-plugins/dummy-data/handy-widgets.wie
+Customizer file = C:\xampp\htdocs\hatoccho/wp-content/themes/handystore/required-plugins/dummy-data/handystore-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+	<p>Your account is not setup as a vendor.</p>
+
+			<form method="POST" action="">
+			<div class="clear"></div>
+			<p class="form-row">
+				<input class="input-checkbox"
+					   id="apply_for_vendor" 					   type="checkbox" name="apply_for_vendor" value="1"/>
+				<label for="apply_for_vendor"
+					   class="checkbox">Apply to become a vendor? </label>
+			</p>
+
+			<div class="clear"></div>
+
+			
+			<p class="form-row">
+				<input type="submit" class="button" name="apply_for_vendor_submit"
+					   value="Submit"/>
+			</p>
+		</form>
+	
+
+<br class="clear">
+
+
+	<p>Your account is not setup as a vendor.</p>
+
+			<form method="POST" action="">
+			<div class="clear"></div>
+			<p class="form-row">
+				<input class="input-checkbox"
+					   id="apply_for_vendor" 					   type="checkbox" name="apply_for_vendor" value="1"/>
+				<label for="apply_for_vendor"
+					   class="checkbox">Apply to become a vendor? </label>
+			</p>
+
+			<div class="clear"></div>
+
+			
+			<p class="form-row">
+				<input type="submit" class="button" name="apply_for_vendor_submit"
+					   value="Submit"/>
+			</p>
+		</form>
+	
+
+<br class="clear">
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Tìm kiếm - Site Search - Imported
+Handy Recent Posts/Products - Recent Posts - Imported
+Chuyên mục - Blog Categories - Imported
+Handy Most Viewed Posts - Most Viewed Posts - Imported
+Lưu trữ - Archives - Imported
+Handy Popular Posts - Popular Posts - Imported
+Mây Thẻ - Tag Cloud - Imported
+
+Header Top Panel Sidebar : 
+
+Handy Login/Register - No Title - Imported
+
+Header (Logo group) sidebar : 
+
+Handy Search - No Title - Imported
+Văn bản - No Title - Imported
+Handy WooCommerce Cart - No Title - Imported
+
+Front Page Sidebar : 
+
+Handy Categories - Categories - Imported
+Văn bản - No Title - Imported
+Sản phẩm - Specials - Imported
+Văn bản - No Title - Imported
+Sản phẩm - Featured Products - Imported
+Mây Thẻ - Tags - Imported
+
+Pages Sidebar : 
+
+Handy Categories - Categories - Imported
+Handy Recent Posts/Products - Recent Posts - Imported
+Văn bản - No Title - Imported
+Handy Social Icons - Social Networks - Imported
+Handy Recent Comments - Latest Comments - Imported
+
+Shop Page Sidebar : 
+
+Handy Categories - Product Categories - Imported
+Văn bản - No Title - Imported
+Sản phẩm - Featured Products - Imported
+Văn bản - No Title - Imported
+
+Single Product Page Sidebar : 
+
+Tìm kiếm sản phẩm - Product Search - Imported
+Các sản phẩm đã xem gần đây - Recently Viewed Products - Imported
+Sản phẩm - New Products - Imported
+Handy Categories - Categories - Imported
+Văn bản - No Title - Imported
+Sản phẩm - Specials - Imported
+
+Vendor Shop Page Sidebar : 
+
+Các sản phẩm đã xem gần đây - Recently Viewed Products - Imported
+Handy Categories - Categories - Imported
+Handy Vendor Products - Latest Products - Imported
+Handy Vendor Products - Sale Products - Imported
+
+Footer Sidebar Col#1 : 
+
+Handy Contacts - Who We Are - Imported
+
+Footer Sidebar Col#2 : 
+
+Handy Payment Icons - We Accept - Imported
+
+Footer Sidebar Col#3 : 
+
+Văn bản - Information - Imported
+
+Footer Sidebar Col#4 : 
+
+Email Subscribers - No Title - Imported
+
+Special Filters Sidebar : 
+
+YITH WooCommerce Ajax Reset Filter - Reset All Filters - Imported
+Lọc sản phẩm bởi giá - Filter by price - Imported
+YITH WooCommerce Ajax Product Filter - Color - Imported
+YITH WooCommerce Ajax Product Filter - Product Type - Imported
+YITH WooCommerce Ajax Product Filter - Size - Imported
+YITH WooCommerce Ajax Product Filter - Style - Imported
+
+Special Front Page Sidebar : 
+
+Sản phẩm - Sale Products - Imported
+Sản phẩm - Latest Products - Imported
+Đánh giá về sản phẩm hiện tại - Recent Reviews - Imported
+Sản phẩm theo đánh giá - Top Rated Products - Imported
+
+Max Mega Menu Widgets : 
+
+Handy Recent Posts/Products - No Title - Imported
+Sản phẩm - Recent Products - Imported
+Sản phẩm - Sale Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

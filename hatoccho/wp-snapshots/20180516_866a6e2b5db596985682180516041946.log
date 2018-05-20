@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 16 May, 2018 4:22 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.36
+WORDPRESS:	4.9.5
+PHP INFO:	7.1.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.29 (Win32) OpenSSL/1.0.2n PHP/7.1.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 34MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from C:/xampp/mysql/bin/mysqldump.exe 
+TABLES: total:54 | filtered:0 | create:54 
+SQL CREATED: 20180516_866a6e2b5db596985682180516041946_database.sql 
+SQL FILE SIZE: 2.33MB (2439328) 
+SQL FILE TIME: 2018-05-16 04:22:19 
+SQL RUNTIME: 2.28 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/hatoccho 
+ARCHIVE FILE: 20180516_866a6e2b5db596985682180516041946_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	134.28MB 
+STATS:	Dirs 1,379 | Files 9,380 
+SQL ADDED: 20180516_866a6e2b5db596985682180516041946_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10759
+    [filename] => C:\xampp\htdocs\hatoccho\wp-snapshots\tmp\20180516_866a6e2b5db596985682180516041946_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 58.19MB 
+ARCHIVE RUNTIME: 229.22 sec. 
+MEMORY STACK: 36MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/xampp/htdocs/hatoccho/wp-snapshots/tmp/20180516_866a6e2b5db596985682180516041946_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 2.33MB 
+Installer File: 445.84KB 
+Archive File: 58.19MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 234.82 sec.
+PEAK PHP MEMORY USED: 36MB
+DONE PROCESSING => 20180516 16 May, 2018 4:26 am
+ 

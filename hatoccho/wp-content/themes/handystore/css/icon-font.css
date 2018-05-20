@@ -1,0 +1,91 @@
+  /* Special Handy Font */
+  @font-face {
+     font-family: 'custom_font';
+     src:
+       url('../fonts/font-custom/custom-icon.ttf?3kfuxo') format('truetype'),
+       url('../fonts/font-custom/custom-icon.woff?3kfuxo') format('woff'),
+       url('../fonts/font-custom/custom-icon.svg?3kfuxo#custom-icon') format('svg');
+     font-weight: normal;
+     font-style: normal;
+  }
+
+  @font-face {
+  	font-family: 'star';
+  	src: url('../fonts/font-star/star.eot');
+  	src: url('../fonts/font-star/star.eot?#iefix') format('embedded-opentype'),
+  		url('../fonts/font-star/star.woff') format('woff'),
+  		url('../fonts/font-star/star.ttf') format('truetype'),
+  		url('../fonts/font-star/star.svg#star') format('svg');
+  	font-weight: normal;
+  	font-style: normal;
+  }
+
+  [class^="custom-icon-"]:before, [class*=" custom-icon-"]:before {
+   /* use !important to prevent issues with browser extensions that change fonts */
+   font-family: 'custom_font' !important;
+   speak: none;
+   font-style: normal;
+   font-weight: normal;
+   font-variant: normal;
+   text-transform: none;
+   line-height: 1;
+
+   /* Better Font Rendering =========== */
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+ }
+
+ .custom-icon-arrow-down:before {
+   content: "\e902";
+ }
+ .custom-icon-arrow-up:before {
+   content: "\e903";
+ }
+ .custom-icon-arrow-right:before {
+   content: "\e900";
+ }
+ .custom-icon-arrow-left:before {
+   content: "\e901";
+ }
+ .custom-icon-grid:before {
+   content: "\e800";
+ }
+ .custom-icon-list:before {
+   content: "\e801";
+ }
+ .custom-icon-basket:before {
+   content: "\e802";
+ }
+ .custom-icon-alert:before {
+   content: "\e803";
+ }
+ .custom-icon-truck:before {
+   content: "\e804";
+ }
+ .custom-icon-search:before {
+   content: "\e805";
+ }
+ .custom-icon-tag:before {
+   content: "\e806";
+ }
+ .custom-icon-home:before {
+   content: "\e807";
+ }
+ .custom-icon-radio-button-on:before {
+   content: "\e808";
+ }
+ .custom-icon-check-box-off:before {
+   content: "\e809";
+ }
+ .custom-icon-check-box-on:before {
+   content: "\e80a";
+ }
+ .custom-icon-radio-button-off:before {
+   content: "\e80b";
+ }
+ .custom-icon-like:before {
+   content: "\e810";
+ }
+ .custom-icon-sale-badge:before {
+   content: "\e811";
+ }
